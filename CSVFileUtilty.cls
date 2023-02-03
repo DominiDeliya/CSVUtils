@@ -1,13 +1,4 @@
  
-/*------------------------------------------------------------------------
-   File        : CSVFileUtilty
-   Purpose     : 
-   Syntax      : 
-   Description : 
-   Author(s)   : domini.deliyakanthi
-   Created     : Fri Jun 10 09:36:08 IST 2022
-   Notes       : 
- ----------------------------------------------------------------------*/
 
 USING Progress.Lang.*.
 
@@ -16,13 +7,7 @@ BLOCK-LEVEL ON ERROR UNDO, THROW.
 
 CLASS CSVFileUtilty:
           
-/*    DEFINE TEMP-TABLE ttemp NO-UNDO*/
-/*        FIELD empno    AS CHARACTER*/
-/*        FIELD empname  AS CHARACTER*/
-/*        FIELD location AS CHARACTER*/
-/*        FIELD emptype  AS CHARACTER*/
-/*        FIELD duration AS CHARACTER.*/
-  /*        FIELD duration AS CHARACTER123.*/
+/*        FIELD duration AS CHARACTER123.*/
         
     DEFINE PUBLIC PROPERTY pFileName AS character NO-UNDO
     GET.
