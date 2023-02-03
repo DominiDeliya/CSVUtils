@@ -16,12 +16,6 @@ BLOCK-LEVEL ON ERROR UNDO, THROW.
 
 CLASS CSVFileUtilty:
           
-/*    DEFINE TEMP-TABLE ttemp NO-UNDO*/
-/*        FIELD empno    AS CHARACTER*/
-/*        FIELD empname  AS CHARACTER*/
-/*        FIELD location AS CHARACTER*/
-/*        FIELD emptype  AS CHARACTER*/
-/*        FIELD duration AS CHARACTER.*/
         
     DEFINE PUBLIC PROPERTY pFileName AS character NO-UNDO
     GET.
