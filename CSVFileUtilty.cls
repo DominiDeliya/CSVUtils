@@ -22,6 +22,7 @@ CLASS CSVFileUtilty:
 /*        FIELD location AS CHARACTER*/
 /*        FIELD emptype  AS CHARACTER*/
 /*        FIELD duration AS CHARACTER.*/
+  /*        FIELD duration AS CHARACTER123.*/
         
     DEFINE PUBLIC PROPERTY pFileName AS character NO-UNDO
     GET.
