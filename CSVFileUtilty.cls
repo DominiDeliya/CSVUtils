@@ -1,13 +1,4 @@
  
-/*------------------------------------------------------------------------
-   File        : CSVFileUtilty
-   Purpose     : 
-   Syntax      : 
-   Description : 
-   Author(s)   : domini.deliyakanthi
-   Created     : Fri Jun 10 09:36:08 IST 2022
-   Notes       : 
- ----------------------------------------------------------------------*/
 
 USING Progress.Lang.*.
 
