@@ -31,11 +31,6 @@ CLASS CSVFileUtilty:
         
     END CONSTRUCTOR.
 
-    /*------------------------------------------------------------------------------
-     Purpose:
-     Notes:
-    ------------------------------------------------------------------------------*/
-
     CONSTRUCTOR PUBLIC CSVFileUtilty ( INPUT cFileName AS CHARACTER ):
      pFileName = cFileName.
         
