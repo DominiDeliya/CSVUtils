@@ -7,6 +7,7 @@ BLOCK-LEVEL ON ERROR UNDO, THROW.
 
 CLASS CSVFileUtilty:
           
+/*        FIELD duration AS CHARACTER123.*/
         
     DEFINE PUBLIC PROPERTY pFileName AS character NO-UNDO
     GET.
